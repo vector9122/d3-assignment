@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Shadows+Into+Light&display=swap');
+* {font-family: 'ABeeZee', sans-serif;
+    font-size: 12px;
+    background:#edededcc;
+}
+svg {
+    background:#edededcc;
+}
+.country{
+    fill:#20487c;
+    stroke:#f7f4f482;
+    stroke-width:0.2;}
+.selected{
+    fill:palegreen;
+
+}
+.unselected{
+    fill:white
+}
+.circle:hover{
+    stroke: black;
+    stroke-width: 4px;
+}
+.circle{
+    fill: #69b3ba2;
+    stroke: #93ee58;
+    stroke-width: 1;
+    fill-opacity: 0.4;
+}
+
+
+
+
+.svg-content {
+display: inline-block;
+position: absolute;
+top: 0;
+left: 0;
+}
+.form-ranges{
+position: absolute;
+right: 10px;
+width: 400px;
+height: 120px;
+float:right
+}    
+
+.right-cont {
+display: inline-block;
+/* position: relative; */
+width: 50%;
+/* padding-bottom: 50%; */
+vertical-align: top;
+overflow: hidden;
+
+}
+
+.p-form-range {
+width: 60%;
+}
