@@ -3,4 +3,4 @@
 Bharat  Pant (2484219)
 
 I used Bootstrap 5 to style it.
-and I also have a live working version, deployed here : http://d3assignment.uk/
+I also have a live working version, deployed here : http://d3assignment.uk/
